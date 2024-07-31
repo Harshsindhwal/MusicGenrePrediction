@@ -37,7 +37,7 @@ The model achieved an accuracy of 72.93% on the test set. The accuracy could pot
 The model achieved a test accuracy of 72.93%. Detailed results and confusion matrix can be found in the results directory.
 
 ## Future Work
-. Further tuning of hyperparameters.
-. Exploring different model architectures.
-. Adding more genres and expanding the dataset.
-. Implementing real-time genre classification.
+- Further tuning of hyperparameters.
+- Exploring different model architectures.
+- Adding more genres and expanding the dataset.
+- Implementing real-time genre classification.
