@@ -31,13 +31,13 @@ We implemented a Convolutional Neural Network (CNN) with the following architect
 The model was trained using the Adam optimizer and sparse categorical cross-entropy loss function. The training was performed over 600 epochs with a batch size of 32.
 
 ## Evaluation
-The model achieved an accuracy of 92.93% on the test set. The accuracy could potentially be increased by further tuning the hyperparameters and increasing the number of epochs.
+The model achieved an accuracy of 72.93% on the test set. The accuracy could potentially be increased by further tuning the hyperparameters and increasing the number of epochs.
 
 ## Results
-The model achieved a test accuracy of 92.93%. Detailed results and confusion matrix can be found in the results directory.
+The model achieved a test accuracy of 72.93%. Detailed results and confusion matrix can be found in the results directory.
 
 ## Future Work
-Further tuning of hyperparameters.
-Exploring different model architectures.
-Adding more genres and expanding the dataset.
-Implementing real-time genre classification.
+. Further tuning of hyperparameters.
+. Exploring different model architectures.
+. Adding more genres and expanding the dataset.
+. Implementing real-time genre classification.
